@@ -24,3 +24,4 @@ https://www.kaggle.com/datasets/ruthgn/new-orleans-airbnb-listings-and-reviews?s
 ## Avances del proyecto en youtube
 
 Link vídeo YouTube segunda entrega: https://youtu.be/pT4ib7T9iB0
+Link vídeo YouTube entrega final: https://youtu.be/Pm0x8rEc734
